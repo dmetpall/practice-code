@@ -23,7 +23,6 @@ print("Address of Age  :", id(age))
 
 print("Address of Age1 :", id(age1))
 
-
 # print the type of variables
 
 print("Type of Name :", type(name),"Type of Age:", type(age) , "Type of Gpa:", type(gpa))
